@@ -4,6 +4,8 @@ Hey o, I’m @ManiacalMaynard
 
 If you have a suggestion on projects that I can contribute to, amazing brownie recipes, or just want to chat about Dune please let me know! maynard at maniacal industries (dotcom), cheers! 🍻
 
+[maniacalindustries.com](https://www.maniacalindustries.com/)
+
 <!---
 ManiacalMaynard/ManiacalMaynard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
