@@ -1,4 +1,4 @@
-##"Learn how, and make it rad"
+## "Learn how, and make it rad"
 
 Hey o, I’m @ManiacalMaynard! A highly driven, self-taught web developer who is voracious for new know-how. I am studying and working on developing a deeper understanding of front-end web development to add to my skills in visual design, UX/UI, and SEO to become a more well rounded maker of web experiences.
 
