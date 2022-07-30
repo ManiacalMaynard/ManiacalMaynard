@@ -4,31 +4,35 @@ Hey o, I’m @ManiacalMaynard! A highly driven, self-taught web designer & devel
 
 **[Click me if you are here looking for my poster portfolio](https://maniacalmaynard.github.io/posterpage/)**
 
-**[Or try me out to find Maynard on LinkedIn](https://www.linkedin.com/in/steven-maynard-chastain/)
+**[Or try me out to find Maynard on LinkedIn](https://www.linkedin.com/in/steven-maynard-chastain/)**
 
-## Relevent Soft Skills:
+### Relevent Soft Skills:
 
 - Creative Problem Solving
 - Sound Logic & Critical Thinking
 - Open Communication
 - Self Taught & Driven To Learn
 
-## Design Skills Inlclude:
+### Design Skills Inlclude:
 
 - Visual Design, Art Direction
 - UI/UX, Research and Implementation
+- Wireframing, Prototyping, and Testing
+- Iterative & User-Centric Philosophy
+- Copywriting, Branding, Typography Nerd
 
-## Technical Proficiencies Include:
+### Technical Proficiencies Include:
 
 - HTML 5, Semantics, Accessibility
 - CSS 3, Responsive Design, Pre-Processing
 - JS ES6, D3.js, Node
 - Adobe Creative Suite Expert
-- Figma, VSCode
+- Figma, Visual Studio Code
 - Git, GitHub, GNU-Linux
 - WordPress, WooCommerce, Drupal, OSCommerce
+- Familiar with both LAMP and MERN stacks
 
-If you have a suggestion on projects that I can contribute to, amazing brownie recipes, or just want to chat about Dune please let me know! maynard at maniacal industries (dotcom), cheers! 🍻
+If you have a suggestion on projects which I can contribute to, amazing brownie recipes, or just want to chat about Dune please let me know! maynard at maniacal industries (dotcom). Thank you so very much for your time and kind attention, cheers! 🍻
 
 <!-- Site is temporarily down for... reasons... [maniacalindustries.com](https://www.maniacalindustries.com/) 
  -->
