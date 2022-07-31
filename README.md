@@ -1,6 +1,6 @@
 # "Learn how, and make it rad"
 
-Hey o, I’m @ManiacalMaynard! A highly driven, self-taught web designer & developer who is voracious for new know-how. I am always working on developing a deeper understanding of development design and technologies in order to become a more well rounded maker of web experiences.
+Hey o, I’m Maniacal Maynard! A highly driven, self-taught web designer & developer who is voracious for new know-how. I am always working on developing a deeper understanding of development design and technologies in order to become a more well rounded maker of web experiences.
 
 **[Click me if you are here looking for my poster portfolio](https://maniacalmaynard.github.io/posterpage/)**
 
@@ -25,7 +25,7 @@ Hey o, I’m @ManiacalMaynard! A highly driven, self-taught web designer & devel
 
 - HTML 5, Semantics, Accessibility
 - CSS 3, Responsive Design, Pre-Processing
-- JS ES6, D3.js, Node
+- JavaScript ES6, D3.js, Node
 - Adobe Creative Suite Expert
 - Figma, Visual Studio Code
 - Git, GitHub, GNU-Linux
