@@ -2,9 +2,9 @@
 
 Hey o, I’m @ManiacalMaynard! A highly driven, self-taught web designer & developer who is voracious for new know-how in order to gain a deeper understanding of development and become a more well rounded maker of web experiences. Hashtag Always Be Learning =)
 
-**[Click me if you are here looking for my music poster portfolio](https://maniacalmaynard.github.io/posterpage/)**
+**[Find me on LinkedIn for professional stuffs](https://www.linkedin.com/in/steven-maynard-chastain/)**
 
-**[Or try this one to find Maynard on LinkedIn for professional stuffs](https://www.linkedin.com/in/steven-maynard-chastain/)**
+**[And here's my current personal website](https://www.maniacalindustries.com/index.html)**
 
 ### Relevant Soft Skills:
 
