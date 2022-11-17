@@ -4,7 +4,7 @@ Hey o, I’m @ManiacalMaynard! A highly driven, self-taught web designer & devel
 
 **[Find me on LinkedIn for professional stuffs](https://www.linkedin.com/in/steven-maynard-chastain/)**
 
-**[And here's my current personal website](https://www.maniacalindustries.com/index.html)**
+**[And here's my current personal website](https://maniacalmaynard.github.io/industrial/)**
 
 ### Relevant Soft Skills:
 
