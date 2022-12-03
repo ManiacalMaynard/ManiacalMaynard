@@ -26,12 +26,12 @@ Hey o, I’m @ManiacalMaynard! A highly driven, self-taught web designer & devel
 
 ### Development Skills:
 
-- HTML 5, Semantics, Accessibility
-- CSS 3, Responsive Design, Pre-Processing
+- HTML 5, Accessibility
+- CSS 3, Responsive Design
 - JavaScript ES6, D3.js, Node.js
 - Git, GitHub, GNU/Linux
-- Familiar with both LAMP & MERN stacks
-- WordPress, WooCommerce, Drupal CMS Experience
+- Familiar with LAMP & MERN stacks
+- CMS Experience with WordPress, WooCommerce, Drupal
 
 If you have a suggestion on projects to which I can contribute to, amazing brownie recipes, or just want to chat about Dune please let me know! maynard at maniacal industries (dotcom), cheers! 🍻
 
