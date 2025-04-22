@@ -1,7 +1,6 @@
 # "Learn how, and make it rad"
 
-Hey o, I’m @ManiacalMaynard! A highly driven, self-taught web designer & developer who is voracious for new know-how in order to gain a deeper understanding of development and become a more well rounded maker of web experiences. Hashtag: Always Be Learning =)
-
+Hey o, I’m @ManiacalMaynard! A highly driven, human-centered designer & developer who is voracious for new know-how in order to become a more well rounded maker of user experiences.
 **[Find me on LinkedIn for professional stuffs](https://www.linkedin.com/in/steven-maynard-chastain/)**
 
 ### Relevant Soft Skills:
